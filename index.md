@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+ <head>
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>Hinako Izumi</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+ </head>
+ <body>
 
-You can use the [editor on GitHub](https://github.com/kohtakatsuno/kohtakatsuno/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  <h1>勝野皓太(Kohta Katsuno)</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h2>プロフィール</h2>
 
-### Markdown
+   <dl>
+     <dt>氏名</dt>
+   	<dd>勝野皓太</dd>
+     <dt>生年月日</dt>
+   	<dd>1997/8/9</dd>
+     <dt>出身</dt>
+   	<dd>岐阜県中津川市</dd>
+     <dt>所属</dt>
+   	<dd>筑波大学 情報学群 情報メディア創成学類</dd>
+	<dd>融合知能デザイン研究室</dd>
+   </dl>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <h2>連絡先</h2>
 
-```markdown
-Syntax highlighted code block
+   <dl>
+     <dt>e-mail</dt>
+	<dd>kohta.katsuno.2019b[at]mlab.info</dd>
+     <dt>研究室住所</dt>
+	<dd>茨城県つくば市春日1-2</dd>
+     <dt>研究室電話番号</dt>
+	<dd>029-859-1556</dd>
+   </dl>
 
-# Header 1
-## Header 2
-### Header 3
+  <hr/>
 
-- Bulleted
-- List
+  <script type="text/javascript"
+   src="http://crowd4u.org/script/task_loader.js?requester=1071&length=10">
+  </script>
 
-1. Numbered
-2. List
+  <a class="microtask repeat" href="//crowd4u.org">
+   <img src="http://crowd4u.org/img/crowd4u_banner364x93.png">
+  </a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kohtakatsuno/kohtakatsuno/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ </body>
+</html>
