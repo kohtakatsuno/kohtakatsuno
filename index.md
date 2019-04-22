@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
  <head>
   <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>Hinako Izumi</title>
+  <title>Kohta Katsuno</title>
   <link rel="stylesheet" type="text/css" href="style.css">
  </head>
  <body>
