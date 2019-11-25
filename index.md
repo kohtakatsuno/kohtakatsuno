@@ -33,6 +33,11 @@
      <dt>研究室電話番号</dt>
 	<dd>029-859-1556</dd>
    </dl>
+   
+   <h2>業績</h2>
+   <dl>
+     <dt>KohtaKatsuno,MasakiMatsubara,ChiemiWatanabe,AtsuyukiMorishima,"Improving Reproducibility of Crowdsourcing Experiments"Proc. of the seventh AAAI Conference on Human Computation and Crowdsourcing.2019</dt>
+   </dl>
 
   <hr/>
 
