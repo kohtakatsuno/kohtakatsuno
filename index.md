@@ -34,10 +34,11 @@
 	<dd>029-859-1556</dd>
    </dl>
    
-   <h2>業績</h2>
-   <dl>
-     <dt>KohtaKatsuno,MasakiMatsubara,ChiemiWatanabe,AtsuyukiMorishima,"Improving Reproducibility of Crowdsourcing Experiments"Proc. of the seventh AAAI Conference on Human Computation and Crowdsourcing.2019</dt>
-   </dl>
+   <h2>Publications</h2>
+
+   <ul>
+	   <li>Kohta,K., Matsubara,M., Watanabe,C., Morishima,A.: Improving Reproducibility  of Crowdsourcing Experiments. The 7th AAAI Conference on Human Computation and Crowdsourcing (HCOMP 2019), WA, 2019.10</li>
+	</ul>
 
   <hr/>
 
